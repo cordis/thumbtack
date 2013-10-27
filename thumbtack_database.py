@@ -2,7 +2,7 @@
 
 from thumbtack.storage import Storage
 from thumbtack.runtime import Runtime
-from thumbtack.processor import RuntimeRunner
+from thumbtack.runner import RuntimeRunner
 
 
 def main():
